@@ -1,0 +1,8 @@
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe.config
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.pdb
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.csproj.AssemblyReference.cache
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.exe
+C:\Luana-cursos\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.pdb
